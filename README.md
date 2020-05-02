@@ -72,6 +72,12 @@ If you have any questions about the repo, open an issue or contact [Alejandro Fu
 
 ## Finished HW GIF
 
+<img src="./public/images/gif1.gif" alt="finished gif 1" style="border-radius: 16px" width="300" height="180"/>
 
+<img src="./public/images/gif2.gif" alt="finished gif 2" style="border-radius: 16px" width="300" height="180"/>
+
+<img src="./public/images/gif3.gif" alt="finished gif 3" style="border-radius: 16px" width="300" height="180"/>
+
+<img src="./public/images/PWA App.png" alt="Picture of App" style="border-radius: 16px" width="300" height="180"/>
 
 ---
