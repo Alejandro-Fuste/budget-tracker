@@ -4,7 +4,7 @@
 
 ## Description 
 
-This budget tracker project is a progressive web application that has online and offline functionality. This is a full-stack application that uses an express server, mongo database, and mongoose ORM. Users can add expenses and deposits to their budget with or without a connection. Their transactions populate once they regain their connection.  
+This budget tracker project is a progressive web application that has online and offline functionality. This is a full-stack application that uses an express server, mongo database, and mongoose ORM. Users can add expenses and deposits to their budget with or without a connection. Their transactions populate once they regain their connection. You can see the deployed site by [clicking on this link!](https://zep-budget-tracker.herokuapp.com/). 
 
 ## User Story
 
