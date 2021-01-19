@@ -6,15 +6,13 @@
 
 <img align="center" src="./public/images/gif2.gif" alt="finished gif 2"  width="400" height="300"/>
 
-<!-- <img align="center" src="./public/images/gif3.gif" alt="finished gif 3"  width="400" height="300"/>
 
-<img align="center" src="./public/images/PWA App.png" alt="Picture of App"  width="400" height="300"/> -->
 </table></tr></td>
 
 
 ## Description 
 
-This budget tracker project is a progressive web application that has online and offline functionality. This is a full-stack application that uses an express server, mongo database, and mongoose ORM. Users can add expenses and deposits to their budget with or without a connection. Their transactions populate once they regain their connection. You can see the deployed site by [clicking on this link!](https://zep-budget-tracker.herokuapp.com/). 
+This budget tracker project is a progressive web application <strong>(PWA)</strong> that has online and offline functionality. This is a full-stack application that uses an <strong>express server</strong>, <strong>mongo database</strong>, and <strong>mongoose ORM</strong>. Users can add expenses and deposits to their budget with or without a connection. Their transactions populate once they regain their connection. You can see the deployed site by [clicking on this link!](https://zep-budget-tracker.herokuapp.com/). 
 
 ## User Story
 
