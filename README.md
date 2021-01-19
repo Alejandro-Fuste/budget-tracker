@@ -8,7 +8,7 @@ This budget tracker project is a progressive web application that has online and
 
 ## User Story
 
-```
+```md
 
 AS AN avid traveler
 
